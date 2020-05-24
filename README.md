@@ -5,7 +5,7 @@
 There is a legacy website written in PHP without any framework and the codes are quite messy.  
 After a long deliberation, team leader decides to use __Vue__ as the frontend framework for better development experience.  
 
-You are now an employee of the company, as a front-end engineer, your first mission is to do the code refactoring and try to migrate the existed functions written in JavaScript / jQuery to __Vue__.
+You are now an employee of the company, as a frontend engineer, your first mission is to do the code refactoring and try to migrate the existed functions written in JavaScript / jQuery to __Vue__.
 
 ## Target
 
