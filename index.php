@@ -40,7 +40,6 @@
 </body>
 <script src="vendor/jquery/jquery.min.js"></script>
 <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-<script src="js/sb-admin-2.min.js"></script>
 <script>
     $(document).ready(function() {
         let movie_data_array = JSON.parse(<?php echo json_encode($movie_data_array); ?>);
