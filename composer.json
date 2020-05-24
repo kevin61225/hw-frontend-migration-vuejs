@@ -2,6 +2,6 @@
     "name": "kevin61225/hw-frontend-migration-vuejs",
     "type": "project",
     "require": {
-        "twbs/bootstrap": "^4.5"
+        "php": "^7.4"
     }
 }
