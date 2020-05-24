@@ -17,7 +17,7 @@ You are now an employee of the company, as a frontend engineer, your first missi
 ## Deliverable
 
 1. Upload codes to your __Github__ and __provide repo URL__.
-2. (Optional) Host your codes on any cloud service, e.g. __Heroku__, __Amazon Web Serivce (AWS)__, __Microsoft Azure__, __Google Cloud Platform (GCP)__, and provide site URL.   
+2. (Optional) Host your codes on any cloud service, e.g. __Heroku__, __Amazon Web Serivce (AWS)__, __Microsoft Azure__, __Google Cloud Platform (GCP)__, and __provide site URL__.   
   If you are using __AWS__ / __Azure__ / __GCP__, describe what services you use. 
 
 ## Notice
