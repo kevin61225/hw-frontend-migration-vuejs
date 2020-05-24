@@ -1,4 +1,4 @@
-# Homework - Migrate JavaScript / jQuery to Vue
+# Assignment - Migrate JavaScript / jQuery to Vue
 
 ## Scenario
 
