@@ -35,7 +35,7 @@ $movie_data_array = file_get_contents("js/file/movie.json");
             <div id="button-insert" class="btn btn-primary">Insert</div>
         </form>
         <hr />
-        <ul id="list-movie" lass="list-group list-group-flush">
+        <ul id="list-movie" class="list-group">
         </ul>
     </div>
 </body>
