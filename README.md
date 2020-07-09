@@ -29,4 +29,4 @@ You are now an employee of the company, as a frontend engineer, your first missi
 
 * Once you finished the assignment, send an email back to the one who contacted you.
 * Leave comments to __README.md__ in __the root of your repo__ if there is any.
-* Describe details to __README.md__ if you completed __Target#4__ or __Deliverable#2__.
+* Describe details to __README.md__ if you completed __Target#4__, __Target#5__ or __Deliverable#2__.
