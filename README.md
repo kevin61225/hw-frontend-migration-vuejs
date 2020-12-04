@@ -18,6 +18,7 @@ You are now an employee of the company, as a frontend engineer, your first missi
    * __Title in English__ - *Required*. String length must between 1 to 100 and cannot include the symbols `$`, `%`, `^`, `&`, `*`.
    * __Intro__ - *Required*. String length must between 10 to 255 and need to start with `Intro`. e.g. `Intro: This is ...`, `Intro, Once upon...`.
 5. *(Optional)* Use one of the frontend tools to manage static files. For example, use __Webpack__ or __Bower__ to manage __bootstrap__ and __jQuery__. Describe what tool you use and how you setup.
+6. *(Optional)* Find any weakness/risk in this application, describe the weakness/risk and how you fix it.
 
 ## Deliverable
 
